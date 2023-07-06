@@ -13,7 +13,7 @@
 (function() {
   GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Misc',
+    url: 'https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Misc.js',
     onload: function(response) {
       var code = response.responseText;
       eval(code); // Execute the code obtained from the server
