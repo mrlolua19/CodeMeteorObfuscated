@@ -8,8 +8,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=voxiom.io
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/three.js/0.151.3/three.min.js
-// @downloadURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Misc
-// @updateURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Misc
 // ==/UserScript==
 //test
 console.log("Success");
