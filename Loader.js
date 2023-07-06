@@ -9,8 +9,8 @@
 // @grant        none
 // @run-at       document-start
 // @require      https://cdnjs.cloudflare.com/ajax/libs/three.js/0.151.3/three.min.js
-// @downloadURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Loader
-// @updateURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Loader
+// @downloadURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Loader.js
+// @updateURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Loader.js
 // ==/UserScript==
 
 //test
