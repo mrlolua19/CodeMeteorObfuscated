@@ -11,8 +11,8 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/three.js/0.151.3/three.min.js
 // @connect      fair-wasp-cap.cyclic.app
 // @run-at       document-start
-// @downloadURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Login
-// @updateURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Login
+// @downloadURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Login.js
+// @updateURL https://raw.githubusercontent.com/mrlolua19/CodeMeteorObfuscated/main/Login.js
 // ==/UserScript==
 
 //test
